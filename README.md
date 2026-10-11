@@ -9,8 +9,8 @@ I'm interested in the intersection of hardware and software, with a focus on ele
 - Embedded Systems
 - CAD & 3D Modeling
 - Programming & Hardware Integration
-- 
-<h3 align="left">Skills:</h3>
+
+## Skills
 - **Programming:** Python,
 - **Electronics:** Circuit Building, Soldering, Arduino
 - **CAD:** 3D Modeling & Engineering Design
